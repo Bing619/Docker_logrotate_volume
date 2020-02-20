@@ -23,7 +23,9 @@ docker cp 9cc3c726a750:/surflock/log/production.log /logs/2.log
 
 3. The final result
 -------
-![](https://github.com/Bing619/Docker_logrotate_volume/blob/master/img/daily.png)  
+![](https://github.com/Bing619/Docker_logrotate_volume/blob/master/img/rails_volume.png)         
+![](https://github.com/Bing619/Docker_logrotate_volume/blob/master/img/volume.png)      
+![](https://github.com/Bing619/Docker_logrotate_volume/blob/master/img/daily.png)       
 
 4. remark
 -------
